@@ -1,0 +1,4 @@
+npxdist/
+node_modules/
+coverage/
+dist/
